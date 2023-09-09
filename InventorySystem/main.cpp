@@ -46,7 +46,7 @@ int main() {
 	
 	inv.addProduct("Cheese", 1);
 	inv.addProduct("Bread", 2);
-	inv.addProduct("Dick", 100);
+	inv.addProduct("Duck", 100);
 
 	inv.displayInventory();
 
